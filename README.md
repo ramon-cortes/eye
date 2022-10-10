@@ -1,4 +1,4 @@
-<img src="images/screenshot.jpg" height="250" width="260">
+<img src="images/screenshot.jpg">
 
 ### Eye Exercise
 
