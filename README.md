@@ -11,4 +11,4 @@ Just move your cursor around the Eyes.
 Since I have not done anything **extra** or special to this particular exercise I plan on doing a cross-eye effect. When the cursor is moved between the two eyes. I hope to get the time before submitting my *GitHub Pages Portfolio Assignment*
 
 ### License information
-Most code obtained from MIT. Minor adjustments and additions by Ramon C
+Most code obtained from MIT.
