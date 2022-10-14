@@ -1,8 +1,10 @@
 <img src="images/screenshot.jpg">
 
-### Eye Exercise
+## Eye Exercise
 
 Transforms 2 *div* elements using the mouse coordinates (onmousemove) to display 2 moving eyes that follow the cursor.
+
+Just move your cursor around the Eyes.
 
 ### RoadMap
 
